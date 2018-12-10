@@ -1,0 +1,27 @@
+{
+  "name": "ehrweb-protactor",
+  "version": "1.0.0",
+  "description": "Ehr web protactor project to execute e2e tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosa-suarez/ehrweb-protactor.git"
+  },
+  "keywords": [
+    "ehr",
+    "protactor",
+    "exscribe"
+  ],
+  "author": "exscribe\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosa-suarez/ehrweb-protactor/issues"
+  },
+  "homepage": "https://github.com/carlosa-suarez/ehrweb-protactor#readme",
+  "dependencies": {
+    "protractor": "^5.4.1"
+  }
+}
